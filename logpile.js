@@ -21,25 +21,21 @@ const circleScale = d3.scaleSqrt().domain([0,1000000000000]).range ([1, 100]);
 
 
 const scales = [
-				{"name": "Kg",
-				"low": 0,
-				"high": 1},
-
-				{"name": "Tonnes",
-				"low": 0,
-				"high": 1000},
-
-				{"name": "Ktonnes",
-				"low": 0,
-				"high": 1000000},
-
-				{"name": "Mtonnes",
-				"low": 0,
-				"high": 1000000000},
-
-				{"name": "Gtonnes",
-				"low": 0,
-				"high": 1000000000000}]
+	{"name": "Kg",
+	"low": 0,
+	"high": 1
+	{"name": "Tonnes",
+	"low": 0,
+	"high": 1000
+	{"name": "Ktonnes",
+	"low": 0,
+	"high": 1000000
+	{"name": "Mtonnes",
+	"low": 0,
+	"high": 1000000000
+	{"name": "Gtonnes",
+	"low": 0,
+	"high": 1000000000000}]
 
 // Set the domains for the scales
 for (let i=0; i < scales.length; i++) {
@@ -69,9 +65,9 @@ function drawchart(error, data) {
 
 		// Plot the axis
 		const axis = chart.append("g")
-							.call(d3.axisLeft(scale))
-							.attr("class", "axis")
-							.attr("id", `${scales[i].name}`);
+			.call(d3.axisLeft(scale))
+			.attr("class", "axis")
+			.attr("id", `${scales[i].name}`);
 
 		// Label each chart with scale name
 		chart.append("text")
@@ -87,18 +83,18 @@ function drawchart(error, data) {
 
 		// Plot the data
 		const circles = chart.selectAll("circle")
-								.data(toPlot)
-								.enter()
-								.append("circle")
-								.attr("cx", 0)
-								.attr("cy", d => scale(d.co2e))
-								.attr("r", 20);
+			.data(toPlot)
+			.enter()
+			.append("circle")
+			.attr("cx", 0)
+			.attr("cy", d => scale(d.co2e))
+			.attr("r", 20);
 
 		// Plot the labels
 		const text = chart.selectAll("text")
-							.data(toPlot)
-							.enter()
-							.append("text");
+			.data(toPlot)
+			.enter()
+			.append("text");
 
 		text.attr("x", 50)
 			.attr("y", d => scale(d.co2e))
