@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<meta charset="utf-8">
+	<title>Carbon in Context</title>
+	<script src="https://d3js.org/d3.v5.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather|Oswald:700&display=swap" rel="stylesheet">
+	<link rel="icon" href="images/favicon.png" type="image/png" sizes="24x24">
+</head>
+
+<body>
+	<div id = main>
+	<h1>Carbon in Context</h1>
+	<p>How much CO<sub>2</sub> is emitted by producing a burger, or by taking a transatlantic flight, or by a country each year?</p>
+	<p>The media throws around kilograms, tonnes and gigatonnes, but it’s hard to understand how they compare. So here’s a visualization that puts them in context.</p>
+	<div>
+		<svg id = "chart" width = 100% height = 2000></svg>
+		<script src="logpile.js"></script>
+	</div>
+	<p><strong>By <a href="http://www.duncangeere.com">Duncan Geere</a>, February 2020</strong></p>
+	<p>Data from multiple sources, including <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">Our World in Data</a>, <a href="https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year">The Guardian</a> and the <a href="https://exponentialroadmap.org/wp-content/uploads/2018/09/Exponential-Climate-Action-Roadmap-September-2018.pdf">Exponential Climate Action Roadmap</a>. See the <a href="https://docs.google.com/spreadsheets/d/1kPuNFFncPWrx2ZZqCT7cT4j0pwmL9O29MLLzCAyo3sg/edit?usp=sharing"> datasheet</a> for full information.</p>
+	<p>Made with love and <a href="https://d3js.org/">D3.js</a>. I call this type of visualization a "logpile chart", find out more in <strong>this short essay</strong>, or get the source code <a href="https://github.com/duncangeere/carbonincontext">on Github</a>.</p>
+</div>
+</body>
+
+</html>
