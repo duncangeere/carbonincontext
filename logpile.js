@@ -23,16 +23,16 @@ const circleScale = d3.scaleSqrt().domain([0,1000000000000]).range ([1, 100]);
 const scales = [
 	{"name": "Kg",
 	"low": 0,
-	"high": 1
+	"high": 1},
 	{"name": "Tonnes",
 	"low": 0,
-	"high": 1000
+	"high": 1000},
 	{"name": "Ktonnes",
 	"low": 0,
-	"high": 1000000
+	"high": 1000000},
 	{"name": "Mtonnes",
 	"low": 0,
-	"high": 1000000000
+	"high": 1000000000},
 	{"name": "Gtonnes",
 	"low": 0,
 	"high": 1000000000000}]
