@@ -91,17 +91,17 @@ function drawchart(error, data) {
 			.attr("r", 20);
 
 		// Plot the labels
-		const text = chart.selectAll("text")
+		const labels = chart.selectAll(".label")
 			.data(toPlot)
 			.enter()
 			.append("text");
 
-		text.attr("x", 50)
+		labels.attr("x", 50)
 			.attr("y", d => scale(d.co2e))
 			.text(d => d.thing)
 			.style("font-size", "70%");
 
-		console.log(text);
+		console.log(labels);
 	}
 
 };
