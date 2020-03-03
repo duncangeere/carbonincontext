@@ -74,7 +74,7 @@ function drawchart(error, data) {
 			.style("font-size", "450%")
 			.style("font-weight", "bold")
 			.attr("transform", "rotate(90)")
-			.attr("opacity", labelOpacity);
+			.style("opacity", labelOpacity);
 
 		// Plot the data
 		const circles = chart.selectAll("circle")
