@@ -1,5 +1,5 @@
 body {
-	background-color: #e5e5e3;
+	background-color: rgb(250,250,230);
 	align-content: center;
 	color: #201f3a;
 	font-family: "Merriweather", Georgia;
@@ -21,6 +21,10 @@ a {
 }
 
 circle {
-	opacity: 30%;
-	fill: #201f3a;
+	fill: rgba(50,30,0,0.4);
+}
+
+.labelline line {
+	stroke: rgba(50,30,0,0.4);
+	stroke-width: 2px;
 }
