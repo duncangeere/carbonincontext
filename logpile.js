@@ -14,7 +14,7 @@ const svg = d3.select("#chart"),
 	  innerHeight = height - margin.top - margin.bottom,
 	  gutter = 80, // gutter between charts
 	  circleSize = 35,
-	  labelOpacity = "8%";
+	  labelOpacity = 0.08;
 
 // Define my different scales
 const circleScale = d3.scaleSqrt().domain([0,1000000000000]).range ([20, 50]);
