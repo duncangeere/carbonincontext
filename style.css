@@ -29,3 +29,7 @@ circle {
 	stroke: rgba(50,30,0,0.4);
 	stroke-width: 2px;
 }
+
+#titleimg {
+	width: 100%;
+}
