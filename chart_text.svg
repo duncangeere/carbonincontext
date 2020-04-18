@@ -1,0 +1,159 @@
+<svg width="2800" height="2400" viewBox="0 0 2800 2400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="2800" height="2400" fill="white"/>
+<path d="M320.946 413.281H2404.28" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path opacity="0.1" d="M2403.22 413.372H319.892V584.055V824.494H324.795L338.049 584.055C351.89 413.372 2403.22 413.372 2403.22 413.372Z" fill="#201F3A"/>
+<path opacity="0.1" d="M2403.23 820.574H319.893V991.257V1231.7H324.796L338.05 991.257C351.891 820.574 2403.23 820.574 2403.23 820.574Z" fill="#201F3A"/>
+<path opacity="0.1" d="M2403.22 1234.47H319.892V1405.15V1645.59H324.795L338.049 1405.15C351.89 1234.47 2403.22 1234.47 2403.22 1234.47Z" fill="#201F3A"/>
+<path opacity="0.1" d="M2403.22 1647.9H319.892V1818.58V2059.02H324.795L338.049 1818.58C351.89 1647.9 2403.22 1647.9 2403.22 1647.9Z" fill="#201F3A"/>
+<path d="M320.946 413.281V434.114" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M737.613 413.28V434.114" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M2404.28 413.372V434.205" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1570.95 413.372V434.205" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1154.28 413.372V434.205" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1987.61 413.372V434.205" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="307.27" y="474.968">0</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="705.629" y="474.968">0.2</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1123.79" y="474.968">0.4</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1541.17" y="474.968">0.6</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1957.24" y="474.968">0.8</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="2393.81" y="474.968">1</tspan></text>
+<text opacity="0.05" fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="150" font-weight="bold" letter-spacing="0em"><tspan x="1584" y="411.855">Kilograms</tspan></text>
+<path d="M319.902 824.624H2405.32" stroke="#201F3A" stroke-width="8.33333"/>
+<path d="M320.946 824.715V845.549" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M737.612 824.715V845.549" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M2404.28 824.807V845.64" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1570.95 824.807V845.64" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1154.28 824.807V845.64" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1987.61 824.807V845.64" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="307.27" y="886.495">0</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="697.572" y="886.494">200</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1115.73" y="886.494">400</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1533.11" y="886.494">600</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1948.14" y="886.495">800</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="2381.4" y="886.494">1k</tspan></text>
+<text opacity="0.05" fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="150" font-weight="bold" letter-spacing="0em"><tspan x="1838.7" y="823.199">Tonnes</tspan></text>
+<path d="M319.898 1236.06L2405.33 1236.06" stroke="#201F3A" stroke-width="12.5"/>
+<path d="M320.946 1236.15V1256.98" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M737.612 1236.15V1256.98" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M2404.28 1236.24V1257.08" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1570.95 1236.24V1257.08" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1154.28 1236.24V1257.08" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1987.61 1236.24V1257.08" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="307.269" y="1297.93">0</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="686.508" y="1297.93">200k</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1102.58" y="1297.93">400k</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1521" y="1297.93">600k</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1936.04" y="1297.93">800k</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="2373" y="1297.93">1m</tspan></text>
+<text opacity="0.05" fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="150" font-weight="bold" letter-spacing="0em"><tspan x="1574.86" y="1234.54">Kilotonnes</tspan></text>
+<path d="M319.914 1647.9L2405.31 1647.9" stroke="#201F3A" stroke-width="16.6667"/>
+<path d="M320.946 1647.59V1668.42" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M737.613 1647.59V1668.42" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M2404.28 1647.68V1668.51" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1570.95 1647.68V1668.51" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1154.28 1647.68V1668.51" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1987.61 1647.68V1668.51" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="307.27" y="1709.37">0</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="678.106" y="1709.37">200m</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1094.18" y="1709.37">400m</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1512.6" y="1709.37">600m</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1927.64" y="1709.37">800m</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="2381.01" y="1709.37">1b</tspan></text>
+<text opacity="0.05" fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="150" font-weight="bold" letter-spacing="0em"><tspan x="1470.61" y="1645.89">Megatonnes</tspan></text>
+<path d="M319.916 2058.93L2405.31 2058.93" stroke="#201F3A" stroke-width="20.8333"/>
+<path d="M320.946 2059.02V2079.85" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M737.613 2059.02V2079.85" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M2404.28 2059.11V2079.95" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1570.95 2059.11V2079.95" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1154.28 2059.11V2079.95" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<path d="M1987.61 2059.11V2079.95" stroke="#201F3A" stroke-width="2.08333" stroke-linecap="square"/>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="307.27" y="2120.71">0</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="685.08" y="2120.71">200b</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1102.2" y="2120.71">400b</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1520.62" y="2120.71">600b</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="1935.65" y="2120.71">800b</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="300" letter-spacing="0em"><tspan x="2385.04" y="2120.71">1t</tspan></text>
+<text opacity="0.05" fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="150" font-weight="bold" letter-spacing="0em"><tspan x="1542.2" y="2057.23">Gigatonnes</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="41.6667" font-weight="bold" letter-spacing="0em"><tspan x="113.996" y="422.843">Tonnes &#10;</tspan><tspan x="122.012" y="474.843">of CO2e</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="562.113" y="621.534">Raising a child in a </tspan><tspan x="562.113" y="660.534">developed country</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="916.121" y="621.534">Ten trucks of waste </tspan><tspan x="916.121" y="660.534">going to landfill</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1524.29" y="621.534">Clothes bought every </tspan><tspan x="1524.29" y="660.534">ten minutes in the UK</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="2038.64" y="621.534">Energy use of </tspan><tspan x="2032.87" y="660.534">100 US homes</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="197.56" y="621.534">Global emissions </tspan><tspan x="206.838" y="660.534">per person, 2017</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="272.824" y="1817.7">Global </tspan><tspan x="235.837" y="1856.7">wildfires </tspan><tspan x="299.13" y="1895.7">2019</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="485.452" y="1817.7">UK total </tspan><tspan x="455.057" y="1856.7">emissions </tspan><tspan x="456.095" y="1895.7">1751-2017</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="698.467" y="1817.7">China total </tspan><tspan x="711.955" y="1856.7">emissions </tspan><tspan x="712.993" y="1895.7">1751-2017</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="991.587" y="1817.7">EU-28 total </tspan><tspan x="1016.95" y="1856.7">emissions </tspan><tspan x="1017.98" y="1895.7">1751-2017</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1326.78" y="1817.7">US total </tspan><tspan x="1326.78" y="1856.7">emissions </tspan><tspan x="1326.78" y="1895.7">1751-2017</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="2431.29" y="1817.7">World total </tspan><tspan x="2440.38" y="1856.7">emissions </tspan><tspan x="2426.85" y="1895.7">1751-2000*</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1696.85" y="1817.7">Budget left for </tspan><tspan x="1696.85" y="1856.7">50% chance of </tspan><tspan x="1696.85" y="1895.7">1.5C warming</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="236.789" y="1447.02">Apple Inc. carbon </tspan><tspan x="283.358" y="1486.02">footprint 2018</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="756.705" y="1447.02">Qatar total </tspan><tspan x="756.705" y="1486.02">emissions 2017</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1283.51" y="1447.02">United Kingdom </tspan><tspan x="1283.51" y="1486.02">total emissions 2017</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="2130.9" y="1447.02">Global aviation </tspan><tspan x="2128.16" y="1486.02">emissions 2018</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="2435.52" y="1447.93">Global shipping </tspan><tspan x="2435.52" y="1486.93">emissions 2015</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="299.506" y="1037.34">100,000 barrels </tspan><tspan x="367.164" y="1076.34">of oil burnt</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="665.194" y="1037.34">CERN carbon </tspan><tspan x="646.151" y="1076.34">footprint 2018</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1052.77" y="1037.34">Music streaming </tspan><tspan x="1052.77" y="1076.34">emissions 2016</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1586.16" y="1037.34">Burundi total </tspan><tspan x="1586.16" y="1076.34">emissions 2017</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1546.68" y="210.031">Producing </tspan><tspan x="1522.21" y="249.031">10kg of beef</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="2216.95" y="210.031">London &#62; New York </tspan><tspan x="2232.27" y="249.031">return flight ticket</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="972.802" y="210.031">London &#62; Rome </tspan><tspan x="972.802" y="249.031">return flight ticket</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="653.196" y="210.031">Producing </tspan><tspan x="600.187" y="249.031">10kg of coffee</tspan></text>
+<text fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="222.523" y="210.031">Producing 10kg </tspan><tspan x="327.443" y="249.031">of wheat</tspan></text>
+<path d="M339.696 2059.11L393.737 2005.07V1786.11" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M481.362 2059.11L627.094 1913.38L627.094 1785.44" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M737.904 2059.11L883.71 1913.31V1785.44" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M1048.82 2059.11L1194.66 1913.28V1785.44" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M1160.24 2059.11L1305.99 1913.36V1785.44" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M1532.63 2059.11L1678.5 1913.24V1785.44" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M2477.2 2059.11L2624.32 1911.99L2624.32 1785.1" stroke="#201F3A" stroke-width="2.08333"/>
+<circle cx="339.696" cy="2058.66" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="481.363" cy="2058.66" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="737.905" cy="2058.66" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="1048.82" cy="2058.66" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="1160.24" cy="2058.66" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="1532.62" cy="2058.66" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="2477.2" cy="2058.66" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<path d="M373.446 1647.68L520.226 1500.9V1414.82" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M591.361 1647.68L738.092 1500.95V1415.49" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M1122.4 1647.68L1268.68 1501.4V1416.16" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M2233.45 1647.68L2380.14 1500.99V1416.16" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M2343.86 1647.68L2420.59 1568.6V1415.33" stroke="#201F3A" stroke-width="2.08333"/>
+<circle cx="373.446" cy="1647.31" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="591.362" cy="1647.31" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="1122.4" cy="1647.31" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="2233.45" cy="1647.31" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="2343.86" cy="1647.31" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<path d="M410.529 1236.06L556.692 1089.9V1006.59" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M736.349 1236.06L882.21 1090.2V1005.84" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M893.862 1236.06L1039.84 1090.08V1005.84" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M1423.32 1236.06L1569.6 1089.78V1005.84" stroke="#201F3A" stroke-width="2.08333"/>
+<circle cx="410.529" cy="1235.97" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="736.349" cy="1235.97" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="893.862" cy="1235.97" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="1423.32" cy="1235.97" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<path d="M331.362 824.806L477.344 678.825V585.945" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M443.862 824.806L547.626 721.042V585.436" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M754.279 824.806L900.227 678.858V585.945" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M1361.38 824.806L1507.27 678.915V585.945" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M2116.78 824.805L2263.21 678.374V585.47" stroke="#201F3A" stroke-width="2.08333"/>
+<circle cx="330.89" cy="824.623" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="443.862" cy="824.623" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="754.279" cy="824.623" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="1361.38" cy="824.623" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="2116.78" cy="824.623" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<path d="M1571.57 413.371L1726.07 258.875L1726.07 177.912" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M323.029 413.371L478.271 258.13V177.912" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M675.113 413.371L829.965 258.519V177.912" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M800.112 413.371L956.297 257.187V177.912" stroke="#201F3A" stroke-width="2.08333"/>
+<path d="M2383.45 413.371L2538.97 257.844L2538.97 177.411" stroke="#201F3A" stroke-width="2.08333"/>
+<circle cx="323.029" cy="413.371" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="675.113" cy="413.371" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="800.113" cy="413.371" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="1571.57" cy="413.371" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<circle cx="2383.45" cy="413.371" r="14.5833" fill="white" stroke="#FF7473" stroke-width="8.33333"/>
+<text opacity="0.6" fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1143.32" y="2215.44">* World total emissions 1751-2017</tspan></text>
+<text opacity="0.6" fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1709.38" y="2215.44">=</tspan></text>
+<text opacity="0.4" fill="#201F3A" xml:space="preserve" style="white-space: pre" font-family="Merriweather" font-size="31.25" letter-spacing="0em"><tspan x="1760.25" y="2214.85">1,575,244,297,629 tonnes / 1,575 Gtonnes</tspan></text>
+</svg>
