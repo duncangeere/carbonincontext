@@ -11,20 +11,29 @@
 </head>
 
 <body>
-	<div id = main>
-		<img id="titleimg" src="title.svg"/ alt="Carbon in Context">
-		<p>How much CO<sub>2</sub> is emitted by producing a burger, or by taking a transatlantic flight, or by a country each year?</p>
-		<p>The media throws around kilograms, tonnes and gigatonnes, but it’s hard to understand how they compare. So here’s a visualization that puts them in context.</p>
-		<div>
-			<svg id = "chart" width = 100% height = 2000></svg>
-			<script src="logpile.js"></script>
-		</div>
-		<p><strong>By <a href="http://www.duncangeere.com">Duncan Geere</a>, February 2020</strong></p>
-		<p>Data from multiple sources, including <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">Our World in Data</a>, <a href="https://www.theguardian.com/environment/	ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year">The Guardian</a> and the <a href="https://exponentialroadmap.org/wp-content/	uploads/2018/09/Exponential-Climate-Action-Roadmap-September-2018.pdf">Exponential Climate Action Roadmap</a>. See the <a href="https://docs.google.com/spreadsheets/	d/1kPuNFFncPWrx2ZZqCT7cT4j0pwmL9O29MLLzCAyo3sg/edit?usp=sharing"> datasheet</a> for full information.</p>
+	<img id="titleimg" src="title.svg"/ alt="Carbon in Context">
 
-		<!-- 
-		<p>Made with love and <a href="https://d3js.org/">D3.js</a>. I call this type of visualization a "logpile chart", find out more in <strong>this short essay</strong>, or get the source code <a 	href="https://github.com/duncangeere/carbonincontext">on Github</a>.</p>
-		-->
+	<div class = "main" id = "intro">
+		<p>How much CO<sub>2</sub> is emitted by producing wheat versus beef burgers, or by taking a transatlantic flight, or by different countries each year, or by the global shipping industry?
+</p>
+
+		<p>The media throws around kilograms, tonnes and gigatonnes, but it’s hard to understand how they compare. So here’s a visualization that puts them in context.</p>
+
+		<p>Each axis represents a different scale - the first is kilogrammes of carbon dioxide equivalent emissions (which includes other greenhouse gases too), then tonnes, then kilotonnes, then megatonnes, then gigatonnes.</p>
+
+		<p>It’s useful to split these up, because each axis represents just a tiny sliver of the axis below it - one thousandth of its total width. In this way, you can see which numbers are similar (those on the same axis) and those which are dramatically different (those on other axes).</p>
+
+		<p>I call this a logpile chart, because it’s a pile of linear scales that offer an alternative to the poorly-understood log scale. Feedback and questions are <a href="mailto:duncangeere@gmail.com">very welcome</a>.</p>
+
+		<p><strong>By <a href="http://www.duncangeere.com">Duncan Geere</a>, April 2020</strong></p>
+	</div>
+
+	<div id = "chart">
+		<a href="chart.svg"><img src="chart.svg" alt = "Carbon in Context Chart"/></a>
+	</div>
+
+	<div class = "main" id = "footer">
+		<p>Data from multiple sources, including <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">Our World in Data</a>, <a href="https://www.theguardian.com/environment/	ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year">The Guardian</a> and the <a href="https://exponentialroadmap.org/wp-content/	uploads/2018/09/Exponential-Climate-Action-Roadmap-September-2018.pdf">Exponential Climate Action Roadmap</a>. See the datasheet for full information and additional datapoints that wouldn't fit into the chart: <a href="https://bit.ly/carbonincontextdata">bit.ly/carbonincontextdata</a>.</p>
 	</div>
 </body>
 
