@@ -1,40 +1,40 @@
 body {
-	background-color: #fafafa;
-	color: #201f3a;
-	font-family: "Merriweather", Georgia;
-	margin: 20px;
+    background-color: #fafafa;
+    color: #201f3a;
+    font-family: "Merriweather", Georgia;
+    margin: 20px;
 }
 
 #titleimg {
-	display: block;
-	margin: 20px auto;
-	width: 90%;
-	max-width: 700px;
+    display: block;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 700px;
 }
 
 h1 {
-	font-family: "Oswald";
-	font-size: 320%;
+    font-family: "Oswald";
+    font-size: 320%;
 }
 
 a {
-	color: #ff7473;
+    color: #ff7473;
 }
 
 .main {
-	margin: 20px auto;
-	width: 90%;
-	max-width: 700px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 700px;
 }
 
 #chart img {
-	display: block;
-	width: 90%;
-	margin: 60px auto;
+    display: block;
+    width: 90%;
+    margin: 60px auto;
 
 }
 
 #footer {
-	font-style: italic;
-	margin: 60px auto 100px auto;
+    font-style: italic;
+    margin: 60px auto 100px auto;
 }
